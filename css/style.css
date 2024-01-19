@@ -1,0 +1,29 @@
+body{
+    background-color: #EAF6F6;
+  }
+  h1{
+    color: #66BFBF;
+  }
+  h3{
+    color:  #66BFBf;
+  }
+  
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+  .profile-img{
+    border-radius: 50%;
+    max-width: 150px;
+    border: 2px solid #fff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  .hobbies-img{
+    float:left;
+  }
+ 
+ 
+  
